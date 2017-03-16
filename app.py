@@ -10,4 +10,4 @@ def repeat(x, callback):
 if __name__ == "__main__":
 	repeat(3, greetings)
 
-
+# Et plaf, un commentaire
