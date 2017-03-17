@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Programme d'affichage d'un triple salut inutile
+Programme d'affichage d'un triple salut utile
 """
 
 # Fonction affichage
